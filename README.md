@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CodeIt API - Competitive Programming Data API
 
 A comprehensive REST API for fetching competitive programming data from Codeforces, CodeChef, and LeetCode platforms.
@@ -321,3 +321,4 @@ MIT License - see LICENSE file for details.
 # Codeit-Api
 CodeIt API is a RESTful API that fetches and aggregates competitive programming data from platforms like Codeforces, CodeChef, and LeetCode, making it easy to integrate coding profiles into applications.
 >>>>>>> 1d1175e3ff47d0e9cb3fbb495ffcdb9567123274
+
